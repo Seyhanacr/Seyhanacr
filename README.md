@@ -6,8 +6,9 @@
 <img align="left" alt="Shubham LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
-
+<p align="center">
 ## 📊 My Github Stats
+<p>  
 <p align="center">
 <a href="https://github.com/Seyhanacr">
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=Seyhanacr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Seyhanacr"/>
