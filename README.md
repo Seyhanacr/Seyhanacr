@@ -5,7 +5,7 @@
 <img align= "left" alt="Shubham LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br>
-<img width="55%" align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76118c0c05376cffa6ff0a86d19bc44d5061abf97f54&rid=giphy.gif&ct=g" width="100" height="200" />
+<img width="55%" align="right" src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76118c0c05376cffa6ff0a86d19bc44d5061abf97f54&rid=giphy.gif&ct=g" width="50" height="200" />
 
 ### My Github Stats 📊 <br>
 
