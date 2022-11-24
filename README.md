@@ -7,7 +7,7 @@
 </a>
 <br>
 <p align="center">
-## 📊 My Github Stats
+  📊 My Github Stats
 <p>  
 <p align="center">
 <a href="https://github.com/Seyhanacr">
