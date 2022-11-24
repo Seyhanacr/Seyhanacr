@@ -9,7 +9,7 @@
 
 <a href="https://github.com/Seyhanacr">
   <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=Seyhanacr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Seyhanacr"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Seyhanacr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Seyhanacr"/>
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Seyhanacr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Seyhanacr"/>
 </a>
  
 </a>
