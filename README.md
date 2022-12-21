@@ -2,7 +2,9 @@
 ### I'm improving myself in the Front-End area 
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/seyhan-acar-5b8947186/">
-<img align= "left" alt="Shubham LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
+
+
 </a>
 <br>
 
