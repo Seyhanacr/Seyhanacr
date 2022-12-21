@@ -5,7 +5,7 @@
 <a href="https://seyhan-acar-5b8947186/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyhanacar" height="30" width="25" /></a>
  </p>
-</a>
+
 <br>
 
 ### My Github Stats 📊 <br>
