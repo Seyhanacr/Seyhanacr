@@ -1,10 +1,7 @@
 # Hi there, I'm Seyhan 😃
 ### I'm improving myself in the Front-End area 
 ### Connect With Me:
-<p align="left">
-<a href="https://seyhan-acar-5b8947186/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seyhanacar" height="30" width="25" /></a>
- </p>
+<img align= "left" alt="Shubham LinkdeIN" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br>
 
