@@ -1,6 +1,9 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Seyhanacr&label=Profile%20views&color=f2cd98&style=flat" alt="Seyhanacr" /> </p>
+ 
 # Hi there, I'm Seyhan 😃
+
 ### I'm improving myself in the Front-End area 
+
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/seyhan-acar-5b8947186/">
 <img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
