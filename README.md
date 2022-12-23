@@ -1,4 +1,5 @@
-# Hi there, I'm Seyhan 😃 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Seyhanacr&label=Profile%20views&color=f2cd98&style=flat" alt="Seyhanacr" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Seyhanacr&label=Profile%20views&color=f2cd98&style=flat" alt="Seyhanacr" /> </p>
+# Hi there, I'm Seyhan 😃
 ### I'm improving myself in the Front-End area 
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/seyhan-acar-5b8947186/">
