@@ -1,4 +1,4 @@
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Seyhanacr&label=Profile%20views&color=f2cd98&style=flat" alt="Seyhanacr" /> </p>
+ 
  
 # Hi there, I'm Seyhan 😃
 
