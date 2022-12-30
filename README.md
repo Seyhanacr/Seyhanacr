@@ -1,6 +1,6 @@
  
  
- <p align="center">  # Hi there, I'm Seyhan 😃
+   # Hi there, I'm Seyhan 😃
 
 ### I'm improving myself in the Front-End area 
 
