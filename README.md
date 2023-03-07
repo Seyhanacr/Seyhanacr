@@ -2,7 +2,6 @@
  
    # Hi there, I'm Seyhan 😃
 
-### I'm improving myself in the Front-End area 
 
 ### Connect With Me:
 <a href="https://www.linkedin.com/in/seyhan-acar-5b8947186/">
