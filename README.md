@@ -1,9 +1,9 @@
  
  
-   # Hi there, I'm Seyhan 😃
+                                               # Hi there, I'm Seyhan 😃
 
 
-### Connect With Me:
+### Connect With Me:  
 <a href="https://www.linkedin.com/in/seyhan-acar-5b8947186/">
 <img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
