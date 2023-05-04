@@ -1,11 +1,11 @@
  
 <h1 align="center"> Hi Tehere, I'm Seyhan 	:hugs: </h1>
 <h2 align="center"> I graduated from Computer Engineering. I am improving myself in both the Front and Back End areas. How about looking at my projects? :thinking:</h2>
-<p align="center">
-<h2 >Connect With Me: </h2>
-<a href="https://www.linkedin.com/in/seyhan-acar-5b8947186/">
-<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</p>
+
+<h2 align="center" >Connect With Me: </h2>
+<a align="center" href="https://www.linkedin.com/in/seyhan-acar-5b8947186/">
+<img align="center"  alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+
 
 <br>
 
