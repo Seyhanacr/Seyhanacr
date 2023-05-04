@@ -15,7 +15,7 @@
         <tr valign="top">
             <td width="80px" align="center">
             <span><strong>JavaScript</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/js_badge.svg">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32"/> 
             </td>
             <td width="80px" align="center">
             <span><strong>Java</strong></span><br>
