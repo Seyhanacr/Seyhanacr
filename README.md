@@ -1,6 +1,6 @@
  
 <h1 align="center"> Hi Tehere, I'm Seyhan 	:hugs: </h1>
-<h2 align="center"> I graduated from Computer Engineering. I am improving myself in both the Front and Back End areas. How about looking at my projects? :relaxed:</h2>
+<h2 align="center"> I graduated from Computer Engineering. I am improving myself in both the Front-end Back-End areas. How about looking at my projects? :relaxed:</h2>
 
 
 <h3>Connect With Me: </h3>
