@@ -1,6 +1,6 @@
  
 <h1 align="center"> Hi Tehere, I'm Seyhan 	:hugs: </h1>
-
+<h2 align="center"> I graduated from Computer Engineering. I am improving myself in both the Front and Back End areas. How about looking at my projects? :thinking:</h2>
 
 ### Connect With Me:  
 <a href="https://www.linkedin.com/in/seyhan-acar-5b8947186/">
