@@ -1,5 +1,5 @@
  
-<h1 align="center"> Hi Tehere, I'm Seyhan 	:hugs: </h1>
+<h1 align="center"> Hi Tehere, I'm Seyhan  </h1>
 
 
 
